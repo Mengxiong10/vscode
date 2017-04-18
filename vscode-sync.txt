@@ -4,8 +4,8 @@ Version: 2.6.2
 Upload Summary
 
 --------------------
-GITHUB TOKEN: 87c7cb4e77b01cec35a463870a4f3a7189cd331c
-GITHUB GIST: 80d3e34ae05aac24701a7c4bd5b25e0c
+GITHUB TOKEN: 208b758901c923e7c6bf28c264ee02c4a596cef3
+GITHUB GIST: 7364e448f7a8688a2f4417f63be35ced
 GITHUB GIST TYPE: Secret
 
 --------------------
@@ -40,3 +40,4 @@ vscode-eslint - Version :1.2.8
 vscode-html-css - Version :0.1.1
 vscode-icons - Version :7.5.1
 vscode-theme-onedark - Version :1.3.2
+
