@@ -4,8 +4,8 @@ Version: 2.8.3
 Upload Summary
 
 --------------------
-GITHUB TOKEN: f29bfcac12a238d27202afc1e71f11698cbac690
-GITHUB GIST: 8d43e2ff799c56da61a472ae64a97064
+GITHUB TOKEN: 0d9e7eecb1411017917d79c79a6f21f960a3363d
+GITHUB GIST: a667e9c6e90c0bc8be3739a0747f17d8
 GITHUB GIST TYPE: Secret
 
 --------------------
@@ -26,22 +26,20 @@ vsicons.settings.json
 
 EXTENSIONS ADDED :
 
-auto-close-tag - Version :0.4.3
 auto-rename-tag - Version :0.0.14
 code-beautifier - Version :1.7.2
-code-runner - Version :0.7.1
+code-runner - Version :0.8.2
 code-settings-sync - Version :2.8.3
-debugger-for-chrome - Version :3.2.1
-EditorConfig - Version :0.10.0
+debugger-for-chrome - Version :3.4.0
+EditorConfig - Version :0.11.1
 githistory - Version :0.2.3
 language-stylus - Version :1.7.3
-Material-theme - Version :2.10.10
+Material-theme - Version :2.10.17
 open-in-browser - Version :1.1.0
 path-intellisense - Version :1.4.2
-python - Version :0.7.0
 sublime-keybindings - Version :2.9.1
-vetur - Version :0.9.5
+vetur - Version :0.10.1
 vscode-html-css - Version :0.1.8
-vscode-icons - Version :7.12.0
-vscode-standardjs - Version :1.1.8
+vscode-icons - Version :7.16.0
+vscode-standardjs - Version :1.2.0
 vscode-standardjs-snippets - Version :0.7.3
