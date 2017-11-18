@@ -1,8 +1,8 @@
 CODE SETTINGS SYNC UPLOAD SUMMARY
 Version: 2.8.6
 --------------------
-GitHub Token: 6418561e55f75449cdcf10aebcf475255abffaa1
-GitHub Gist: 91359821be91afccfe3cd0e329ce4f2d
+GitHub Token: cc576baf5e750b8bf6ffa41e1234f89b24f81e5a
+GitHub Gist: 38500eb085da0c8a2746aa5c45ad5b48
 GitHub Gist Type: Secret
 
 Restarting Visual Studio Code may be required to apply color and file icon theme.
@@ -23,7 +23,7 @@ Extensions Added:
   Material-theme v2.10.22
   open-in-browser v1.1.0
   path-intellisense v1.4.2
-  sublime-keybindings v3.0.2
+  sublime-keybindings v3.0.3
   vetur v0.11.3
   vscode-html-css v0.1.8
   vscode-icons v7.18.1
