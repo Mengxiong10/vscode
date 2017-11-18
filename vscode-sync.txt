@@ -1,45 +1,33 @@
-VISUAL STUDIO CODE SETTINGS SYNC 
-Version: 2.8.3
-
-Upload Summary
-
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 2.8.6
 --------------------
-GITHUB TOKEN: 0d9e7eecb1411017917d79c79a6f21f960a3363d
-GITHUB GIST: a667e9c6e90c0bc8be3739a0747f17d8
-GITHUB GIST TYPE: Secret
+GitHub Token: 6418561e55f75449cdcf10aebcf475255abffaa1
+GitHub Gist: 91359821be91afccfe3cd0e329ce4f2d
+GitHub Gist Type: Secret
 
+Restarting Visual Studio Code may be required to apply color and file icon theme.
 --------------------
+Files Uploaded:
+  c.json > snippets|c.json
+  javascript.json > snippets|javascript.json
 
-If current theme / file icon extension is not installed. Restart will be Required to Apply Theme and File Icon.
-
-
-Files Upload.
-
-extensions.json
-keybindings.json
-locale.json
-settings.json
-c.json > snippets|c.json
-javascript.json > snippets|javascript.json
-vsicons.settings.json
-
-
-EXTENSIONS ADDED :
-
-auto-rename-tag - Version :0.0.14
-code-beautifier - Version :1.7.2
-code-runner - Version :0.8.2
-code-settings-sync - Version :2.8.3
-debugger-for-chrome - Version :3.4.0
-EditorConfig - Version :0.11.1
-githistory - Version :0.2.3
-language-stylus - Version :1.7.3
-Material-theme - Version :2.10.17
-open-in-browser - Version :1.1.0
-path-intellisense - Version :1.4.2
-sublime-keybindings - Version :2.9.1
-vetur - Version :0.10.1
-vscode-html-css - Version :0.1.8
-vscode-icons - Version :7.16.0
-vscode-standardjs - Version :1.2.0
-vscode-standardjs-snippets - Version :0.7.3
+Extensions Added:
+  auto-rename-tag v0.0.15
+  code-beautifier v1.7.2
+  code-runner v0.8.4
+  code-settings-sync v2.8.6
+  debugger-for-chrome v3.5.0
+  EditorConfig v0.11.1
+  githistory v0.2.3
+  language-stylus v1.8.0
+  Material-theme v2.10.22
+  open-in-browser v1.1.0
+  path-intellisense v1.4.2
+  sublime-keybindings v3.0.2
+  vetur v0.11.3
+  vscode-html-css v0.1.8
+  vscode-icons v7.18.1
+  vscode-standardjs v1.2.0
+  vscode-standardjs-snippets v0.7.3
+--------------------
+Done.
