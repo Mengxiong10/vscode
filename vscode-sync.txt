@@ -1,8 +1,7 @@
 CODE SETTINGS SYNC UPLOAD SUMMARY
-Version: 2.8.6
+Version: 2.9.0
 --------------------
-GitHub Token: cc576baf5e750b8bf6ffa41e1234f89b24f81e5a
-GitHub Gist: 38500eb085da0c8a2746aa5c45ad5b48
+GitHub Gist: 1d7fb6e49c048d8a66c64f2a4838ac79
 GitHub Gist Type: Secret
 
 Restarting Visual Studio Code may be required to apply color and file icon theme.
@@ -11,23 +10,24 @@ Files Uploaded:
   c.json > snippets|c.json
   javascript.json > snippets|javascript.json
 
+  Extensions Removed:
+
 Extensions Added:
   auto-rename-tag v0.0.15
-  code-beautifier v1.7.2
-  code-runner v0.8.4
-  code-settings-sync v2.8.6
-  debugger-for-chrome v3.5.0
-  EditorConfig v0.11.1
-  githistory v0.2.3
-  language-stylus v1.8.0
-  Material-theme v2.10.22
+  code-runner v0.9.1
+  code-settings-sync v2.9.0
+  debugger-for-chrome v4.2.0
+  EditorConfig v0.12.1
+  file-size v0.1.2
+  githistory v0.4.0
+  language-stylus v1.9.1
+  Material-theme v2.13.4
   open-in-browser v1.1.0
   path-intellisense v1.4.2
   sublime-keybindings v3.0.3
-  vetur v0.11.3
-  vscode-html-css v0.1.8
-  vscode-icons v7.18.1
-  vscode-standardjs v1.2.0
-  vscode-standardjs-snippets v0.7.3
+  vetur v0.11.7
+  vscode-eslint v1.4.7
+  vscode-icons v7.21.0
+  vscode-standardjs-snippets v0.7.5
 --------------------
 Done.
